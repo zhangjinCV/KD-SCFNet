@@ -6,8 +6,6 @@
 Jin Zhang, Qiuwei Liang, Yanjiao Shi<br />
 European Conference on Computer Vision 2022 (ECCV2022)<br />
 
-<img align="right" src="images/result.jpg">
-
 Code, models and dataset will be released around mid-July! Please stay tuned! :blush:
 
 ## Notification
@@ -48,4 +46,8 @@ Dataset download links: [BaiDu](https://pan.baidu.com/s/1WbOKHjOtdctrPkamvi7uEQ?
 | KD-SCFNet | SCFNet$_{STB}$ | 0.8M | 0.30G | 0.035 |  0.030 |  0.026 |  0.054 |  0.056 |[BaiDu](https://pan.baidu.com/s/16xQwUFdp8t3hk3Oa5ifMrg?pwd=sota), [Google](https://drive.google.com/file/d/1dc76-jVW1tabeMhehj2WC39iolUKXFVI/view?usp=sharing) | [BaiDu](https://pan.baidu.com/s/16xQwUFdp8t3hk3Oa5ifMrg?pwd=sota), [Google](https://drive.google.com/file/d/1WX8iFMkuE8RxFtOwJT_bPlyyBu84n0Eq/view?usp=sharing)|
 
 The performance of the proposed model under mean absolute error (MAE).
+
+## Performance 
+
+<img align="right" src="images/result.jpg">
 
