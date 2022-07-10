@@ -5,12 +5,11 @@
 **KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation**<br />
 Jin Zhang, Qiuwei Liang, Yanjiao Shi<br />
 European Conference on Computer Vision 2022 (ECCV2022)<br />
-
-Code, models and dataset will be released around mid-July! Please stay tuned! :blush:
+[Paper](https://drive.google.com/file/d/1nX_wDjeHIK1S2LjQ_LxcK_lXA27QUc0T/view?usp=sharing)
 
 ## Notification
 
-The code is implemented by the PaddlePaddle, which is a DL framework written like the PyTorch, so there will be no difficulty in reading. **It is very welcome and pleasure if you can recurrent the results with your PyTorch code.** We will also try the PyTorch reimplement, and the PyTorch code will release later.
+The code is implemented by the PaddlePaddle, which is a DL framework written like the PyTorch, so there will be no difficulty in reading. **It is very welcome and pleasure if you can recurrent the results with your PyTorch code.** We will also try the PyTorch reimplement, and the PyTorch code will release later :blush:
 
 ## Requirements
 
