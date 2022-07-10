@@ -116,12 +116,14 @@ Comparison of the proposed model with existing SOTA models
 
 If you are using our SCFNet model or KD-SOD80K dataset for your research, please cite the following paper:
 
+ ```bibtex
 @inproceedings{zhang2022kd-scfnet,
   title={KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation},
   author={Jin Zhang, Qiuwei Liang and Yanjiao Shi},
   booktitle={European Conference on Computer Vision},
   year={2022}
 }
+```
 
 ## FAQ
 
