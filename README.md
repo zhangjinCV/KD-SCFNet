@@ -107,9 +107,9 @@ The function `mutil_test_score` is used to calculate the metrics based on the sa
 
 ## Performance
 
-<img align="left" src="figs/result.jpg">
+<img align="left" src="images/result.jpg">
 
-<img align="left" src="figs/compare.jpg">
+<img align="left" src="images/compare.jpg">
 
 Comparison of the proposed model with existing SOTA models
 
