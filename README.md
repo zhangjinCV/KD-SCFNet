@@ -5,7 +5,7 @@
 **KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation**<br />
 Jin Zhang, Qiuwei Liang, Yanjiao Shi<br />
 European Conference on Computer Vision 2022 (ECCV2022)<br />
-[Paper](https://drive.google.com/file/d/1nX_wDjeHIK1S2LjQ_LxcK_lXA27QUc0T/view?usp=sharing)
+[Paper](https://drive.google.com/file/d/1nX_wDjeHIK1S2LjQ_LxcK_lXA27QUc0T/view?usp=sharing)  || Until camera-ready, this is just a preview release. Subject to final publication.
 
 ## Notification
 
@@ -113,6 +113,15 @@ The function `mutil_test_score` is used to calculate the metrics based on the sa
 Comparison of the proposed model with existing SOTA models
 
 ## Citation
+
+If you are using our SCFNet model or KD-SOD80K dataset for your research, please cite the following paper:
+
+@inproceedings{zhang2022kd-scfnet,
+  title={KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation},
+  author={Jin Zhang, Qiuwei Liang and Yanjiao Shi},
+  booktitle={European Conference on Computer Vision},
+  year={2022}
+}
 
 ## FAQ
 
