@@ -41,8 +41,8 @@ Dataset download links: [GitHub](https://github.com/jiwei0921/SOD-CNNs-based-cod
 ###  Knowledge Distillation Based
 | Model | Teacher | Params | FLOPs | DUTS-TE | ECSSD | HKU-IS | DUT-O | PASCAL-S| Saliency Map | Pretrained Weight | 
 |:---:|:---:|:---:|:---:| :---:| :---:| :---:| :---:| :---:|:---:| :---:|
-| KD-SCFNet | SCFNet$_{R50}$ | 0.8M | 0.25G | 0.035 |  0.035 |  0.029 |  0.052 |  0.061 |[BaiDu](https://pan.baidu.com/s/16xQwUFdp8t3hk3Oa5ifMrg?pwd=sota), [Google](https://drive.google.com/file/d/1bnYjTTFJBBiGp-KPVRUbBDlDXkzITkyk/view?usp=sharing) | [BaiDu](https://pan.baidu.com/s/16xQwUFdp8t3hk3Oa5ifMrg?pwd=sota), [Google](https://drive.google.com/file/d/1pzR914hF078dJ762DLFoVOk72AREtjVn/view?usp=sharing)|
-| KD-SCFNet | SCFNet$_{STB}$ | 0.8M | 0.30G | 0.035 |  0.030 |  0.026 |  0.054 |  0.056 |[BaiDu](https://pan.baidu.com/s/16xQwUFdp8t3hk3Oa5ifMrg?pwd=sota), [Google](https://drive.google.com/file/d/1dc76-jVW1tabeMhehj2WC39iolUKXFVI/view?usp=sharing) | [BaiDu](https://pan.baidu.com/s/16xQwUFdp8t3hk3Oa5ifMrg?pwd=sota), [Google](https://drive.google.com/file/d/1WX8iFMkuE8RxFtOwJT_bPlyyBu84n0Eq/view?usp=sharing)|
+| KD-SCFNet | <font size="3">SCFNet$_{R50}$</font> | 0.8M | 0.25G | 0.035 |  0.035 |  0.029 |  0.052 |  0.061 |[BaiDu](https://pan.baidu.com/s/16xQwUFdp8t3hk3Oa5ifMrg?pwd=sota), [Google](https://drive.google.com/file/d/1bnYjTTFJBBiGp-KPVRUbBDlDXkzITkyk/view?usp=sharing) | [BaiDu](https://pan.baidu.com/s/16xQwUFdp8t3hk3Oa5ifMrg?pwd=sota), [Google](https://drive.google.com/file/d/1pzR914hF078dJ762DLFoVOk72AREtjVn/view?usp=sharing)|
+| KD-SCFNet | <font size="3">SCFNet$_{STB}$</font> | 0.8M | 0.30G | 0.035 |  0.030 |  0.026 |  0.054 |  0.056 |[BaiDu](https://pan.baidu.com/s/16xQwUFdp8t3hk3Oa5ifMrg?pwd=sota), [Google](https://drive.google.com/file/d/1dc76-jVW1tabeMhehj2WC39iolUKXFVI/view?usp=sharing) | [BaiDu](https://pan.baidu.com/s/16xQwUFdp8t3hk3Oa5ifMrg?pwd=sota), [Google](https://drive.google.com/file/d/1WX8iFMkuE8RxFtOwJT_bPlyyBu84n0Eq/view?usp=sharing)|
 
 The performance of the proposed model under mean absolute error (MAE).
 ## Train
