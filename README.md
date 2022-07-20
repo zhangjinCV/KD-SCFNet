@@ -5,7 +5,7 @@
 **KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation**<br />
 Jin Zhang, Qiuwei Liang, Yanjiao Shi<br />
 European Conference on Computer Vision 2022 (ECCV2022)<br />
-[Paper](https://drive.google.com/file/d/1nX_wDjeHIK1S2LjQ_LxcK_lXA27QUc0T/view?usp=sharing)  || Until camera-ready, this is just a preview release. Subject to final publication.
+
 
 ## Notification
 
